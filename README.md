@@ -50,5 +50,4 @@ The analysis highlights workforce segments with notable attrition patterns and i
 ## ⚠️ Analytical Limitations
 
 The findings represent patterns and associations observed in the dataset and do not establish causation. Further analysis would be required to determine the underlying reasons for employee attrition.
-GitHub: [ervansh571](https://github.com/ervansh571)
 
